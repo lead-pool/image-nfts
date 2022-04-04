@@ -1,0 +1,43 @@
+{
+  "name": "Lousy CNFT Easter 2022 #159",
+  "description": "Lousy CNFT Easter edition",
+  "image": "ipfs://NewUriToReplace/LousyCNFTEaster159.png",
+  "filename": "LousyCNFTEaster159",
+  "dna": "264c8cd3daa41e9e5366c1ae35570fb9c96ab362",
+  "edition": 159,
+  "date": 1645227616773,
+  "addInfo": {
+    "collection": "Lousy CNFT",
+    "edition": "Easter 2022",
+    "message": "All i got for Easter was this Lousy CNFT",
+    "website": "www.lousyCNFT.com"
+  },
+  "attributes": [
+    {
+      "trait_type": "Bunny Type",
+      "value": "Grey",
+      "traitOrder": 1
+    },
+    {
+      "trait_type": "Camo",
+      "value": "camo 1",
+      "traitOrder": 2
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "grenade belt",
+      "traitOrder": 3
+    },
+    {
+      "trait_type": "Egg",
+      "value": "white egg",
+      "traitOrder": 4
+    },
+    {
+      "trait_type": "Armor",
+      "value": "Armor",
+      "traitOrder": 5
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
